@@ -1,0 +1,27 @@
+ILUSTRACIONES Y MARCA
+
+Se conservan los 24 JPG originales. La app oculta su franja inferior de marca mediante CSS; no modifica esos archivos. Las diez imágenes nuevas son ilustraciones didácticas generadas con IA, orientativas y sin valor de diagnóstico.
+La marca pequeña es el archivo original acordado img/marca.png, superpuesto por CSS en la esquina inferior izquierda de las imágenes de casos y ejercicios. No se ha redibujado el logo. Para visualizarlo es necesario conservar el HTML y la carpeta img; no está incrustado en los PNG nuevos.
+
+Indicaciones de generación: estilo didáctico realista, texturas y contornos suaves, gama crema y gris, composición horizontal 4:3, sin personas ni instrucciones de reparación, sin texto ni logos, espacio abajo izquierda para superponer la marca real.
+
+hormigon-metal: Primer plano de un pilar de hormigón con una zona localizada de recubrimiento desprendido, superficie rugosa gris y dos barras corrugadas metálicas parcialmente expuestas con manchas rojizas. El resto del pilar permanece visible. No mostrar colapso, personas, herramientas ni reparación. Solo el indicio visual: la imagen no diagnostica la causa ni capacidad residual.
+
+fachada: Fachada exterior revestida con piezas cerámicas rectangulares, una pieza ligeramente separada y una zona donde falta otra dejando ver el soporte. Se aprecia que es un paramento vertical exterior y parte del hueco de ventana al lado. No personas debajo, sin elementos cayendo, sin acceso de trabajo. Encuadre del daño, perspectiva de observación desde distancia.
+
+techo-abombado: Interior vacío con encuentro de pared y techo claro: un paño del techo muestra una deformación combada hacia abajo y una abertura visible en su borde, sin derrumbe. Se percibe claramente que la deformación está ARRIBA. Sin lámparas, cables expuestos ni personas. No indicar causa, material específico ni reparación.
+
+suelo-abombado: Pavimento cerámico beige de una habitación vacía: una fila de varias baldosas forma un levantamiento o cresta visible en el centro, con juntas abiertas, el resto permanece plano. Vista oblicua cercana a ras de suelo. Ninguna persona pisando, sin herramientas. Mostrar levantamiento de varias piezas, no una simple ceja de una sola baldosa.
+
+charco: Pequeña zona de suelo cerámico de ducha sin personas, con un charco de agua claramente visible apartado de un sumidero metálico. Pared y suelo beige claro, reflejo suave en el agua; el charco tiene borde irregular realista. No indicar pendiente porcentual ni diagnosticar la impermeabilización.
+
+junta-bloqueada: Detalle de un suelo cerámico beige junto a una pared clara. La junta perimetral ha quedado visiblemente ocupada por un relleno rígido gris que puentea suelo y pared; se aprecia un tramo de esa unión claramente, sin rodapié que lo oculte. Imagen del detalle únicamente: sin herramientas, manos ni instrucciones de corte, sin textos o etiquetas.
+
+agua-ventana: Parte inferior interior de una ventana cerrada en pared clara, con pequeño reguero de agua y mancha húmeda localizada en la jamba y el alféizar interior; se ven gotas en el borde del marco. Se insinúa lluvia fuera sin mostrar personas. La imagen presenta agua junto al marco sin afirmar por dónde entra ni su causa. No enchufes ni cables.
+
+barandilla: Detalle de la base de un montante de barandilla metálica en un descansillo vacío. La placa de anclaje está ligeramente levantada, un tornillo presenta holgura visible y el soporte alrededor tiene una pequeña fisura. Se ve parte de la barandilla y el borde del descansillo sin personas ni manos probando la resistencia. No mostrar derrumbe ni caída.
+
+anclaje: Use case: scientific-educational. Asset type: imagen para ficha de observación de un anclaje desplazado. Una ÚNICA escuadra metálica en L pequeña, VACÍA SIN BALDA, fijada a una pared de yeso clara con DOS tornillos a través de los agujeros de su ala vertical. Primer plano lateral de tres cuartos que permita ver la fijación. El tornillo superior, CON SU CABEZA apoyada en el agujero de la propia escuadra, está parcialmente extraído DE LA PARED junto con el taco; por ello esa esquina superior de la escuadra se separa un poco de la pared. Hay una pequeña fisura y desprendimiento superficial alrededor del agujero superior. El tornillo inferior permanece fijado. Todos los tornillos atraviesan sus agujeros reales en el metal: ningún tornillo flotante ni atravesando aire fuera de la escuadra. No madera ni estante ni objetos colgados. Ilustración didáctica realista, texturas suaves y contornos finos oscuros, paleta crema gris beige, composición horizontal 4:3, espacio libre abajo izquierda para marca. Sin personas ni manos, sin herramientas, sin texto ni logotipo, sin flechas ni instrucciones de reparación.
+
+paso-instalaciones: Primer plano de una pared técnica de placa lisa clara con una tubería atravesando un hueco circular sobredimensionado que deja un anillo abierto sin sellar. El interior del hueco es oscuro, se ve otro pequeño cable de baja complejidad pasando por un lateral, sin conductores desnudos. No fuego, humo, personas, espuma ni indicaciones de rellenado. Mostrar el hueco abierto, sin afirmar resistencia al fuego de la pared.
+ 

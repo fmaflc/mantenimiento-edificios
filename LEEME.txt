@@ -1,0 +1,45 @@
+REVISIÓN Y MANTENIMIENTO DE EDIFICIOS · VERSIÓN AMPLIADA
+Aprende a observar, identificar problemas y comunicar incidencias
+
+Actualización de nombre: noviembre de 2026. Denominación anterior: Detectar defectos en obra. Se mantienen los 34 casos y los 34 ejercicios.
+Archivo de entrega: app-revision-mantenimiento-edificios.zip
+
+CONTENIDO
+34 casos: los 24 originales revisados y 10 nuevos, con ilustraciones nuevas.
+Se mantienen los números, enlaces de las fichas originales, estética y apartados.
+Se observa primero y se pulsa «Ver la explicación» después. Las advertencias son visibles desde el inicio. Las explicaciones abiertas se recuerdan durante la sesión; al recargar vuelven a cerrarse.
+34 ejercicios autocorregibles (5 de descripción visual y 29 de aplicación): tres opciones, pista, explicación, repetición, navegación y enlace a la ficha relacionada.
+Búsqueda por varias palabras sin distinguir tildes, categorías con recuentos y fichas repasadas.
+
+CASOS NUEVOS
+25 Hormigón desprendido y metal visible.
+26 Piezas separadas en fachada.
+27 Techo abombado o descolgado.
+28 Levantamiento de varias baldosas.
+29 Agua retenida junto a un desagüe.
+30 Relleno rígido en un encuentro.
+31 Agua junto al marco de una ventana.
+32 Fijación alterada de una barandilla.
+33 Anclaje desplazado en una pared.
+34 Hueco abierto en un paso de instalaciones.
+
+REVISIÓN FORMATIVA
+Se distingue descripción, hipótesis y valoración profesional. No se diagnostica la causa ni se certifica seguridad por el aspecto, ancho de una fisura, color o sonido. Se han revisado las comprobaciones para evitar tocar, empujar, golpear o retirar elementos dudosos. Se incorpora una pauta para registrar y comunicar observaciones.
+La actividad se realiza con el docente y los procedimientos de la obra. Los criterios aplicables dependen del proyecto, sistema, producto y contexto. No incluye instrucciones de reparación ni autoriza a intervenir.
+Referencias generales: CTE DB-SUA, CTE DB-SI e INSST Construcción, enlazadas en la app. Consulta documental: octubre de 2026.
+
+PROGRESO
+Solo se guardan en este navegador las fichas repasadas y ejercicios superados. No se envían respuestas ni se crean cuentas. Cambiar de dominio, navegador o dispositivo no traslada el progreso; borrar los datos del sitio lo elimina. Si el navegador bloquea el guardado, se informa en pantalla. «Reiniciar el progreso de ejercicios» pide confirmación y conserva las fichas repasadas. Repetir un ejercicio no borra un logro anterior.
+
+PUBLICAR
+Descomprime el ZIP. Conserva juntos index.html, data.js, app.js, ejercicios.js, .nojekyll y la carpeta img completa.
+Cloudflare Pages o Netlify: carga la carpeta que contiene directamente index.html como sitio estático, sin comando de compilación. No subas una carpeta contenedora vacía ni solo el HTML.
+GitHub Pages: sube los archivos descomprimidos al repositorio con index.html en la raíz. En Settings > Pages, elige Deploy from a branch, main y /(root). Guarda si hay cambios y espera a que el despliegue termine correctamente en Actions.
+Las rutas de imágenes y scripts son relativas y las páginas usan #/; sirven también en una subcarpeta de GitHub Pages. No hay dependencias de servicios externos para mostrar el contenido o corregir ejercicios; solo las referencias abren webs externas.
+Para probar sin publicar puedes abrir index.html con JavaScript activo. El guardado local puede variar al abrir archivos directamente; comprueba el sitio publicado para el uso normal.
+
+MARCA E IMÁGENES
+Se usa el logo pequeño de barras original acordado abajo a la izquierda, superpuesto en todas las imágenes de casos y ejercicios. Véase ILUSTRACIONES.txt. Se conserva el logo institucional de cabecera.
+
+COMPROBACIONES
+Revisados carga, revelado de explicaciones, navegación, buscador, marca y presentación móvil. Verificadas las 102 combinaciones de respuesta de los 34 ejercicios, repetición, pistas, guardado y reinicio del progreso.
